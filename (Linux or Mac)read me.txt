@@ -1,0 +1,7 @@
+
+Please download the tool, then save with being compression data together.
+start linux system and open command windows,then input command below:
+
+java -jar trcm.jar
+
+The next steps is the same operation with windows.
